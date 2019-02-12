@@ -1,1 +1,0 @@
-Refer to https://github.com/ClaraHapp/MFPCA and https://rdrr.io/cran/MFPCA/man/PACE.html
